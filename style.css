@@ -11,10 +11,29 @@ body {
     padding-bottom: 100px;
 }
 
-td {
-    padding-right: 40px;
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+  
+.column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: auto;
+    flex: 3;
 }
 
-.software-table{
+.double-column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+
+.software-row {
+    display: flex;
     justify-content: space-between;
 }
+  
