@@ -3,6 +3,15 @@ body {
     margin: 2% 15% 2% 15%;
 }
 
+h1, h2 {
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+h4, h5 {
+    font-family: "Roboto";
+    margin: 0;
+}
+
 .container {
     background-color: burlywood;
     padding-left: 10%;
