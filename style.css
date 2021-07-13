@@ -1,4 +1,10 @@
+body {
+    background-color: #a9e27aab;
+    margin: 2% 15% 2% 15%;
+}
+
 .container {
+    background-color: burlywood;
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 30px;
@@ -7,4 +13,8 @@
 
 td {
     padding-right: 40px;
+}
+
+.software-table{
+    justify-content: space-between;
 }
