@@ -1,14 +1,14 @@
 body {
     background-color: #a9e27aab;
     margin: 2% 15% 2% 15%;
+    font-family: "Roboto";
 }
 
 h1, h2 {
     font-family: 'Otomanopee One', sans-serif;
 }
 
-h4, h5 {
-    font-family: "Roboto";
+h4, h5 { 
     margin: 0;
 }
 
